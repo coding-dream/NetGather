@@ -52,6 +52,7 @@ v2ex http://v2ex.com/
 伯乐在线 http://blog.jobbole.com/
 
 收藏别人很多仓库xx https://github.com/treejames
+很多优秀网站 http://jayfeng.com/categories/android/
 
 
 
