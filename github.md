@@ -2,3 +2,5 @@
 开源库趋势 https://github.com/trending/java
 
 廖百万 https://github.com/liaohuqiu
+
+张勇(360 DroidPlugin作者)https://github.com/cmzy
