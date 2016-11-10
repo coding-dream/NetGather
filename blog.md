@@ -58,4 +58,7 @@ v2ex http://v2ex.com/
 
 张涛(插件化推荐) http://kymjs.com/
 
+http://www.zengye.cc/2016/05/01/java%E4%BB%A3%E7%90%86%E6%9C%BA%E5%88%B6%E4%B8%8Ehook/
+
+
 开源项目收集网站 http://www.23code.com/
