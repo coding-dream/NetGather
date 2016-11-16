@@ -67,3 +67,7 @@ http://www.zengye.cc/2016/05/01/java%E4%BB%A3%E7%90%86%E6%9C%BA%E5%88%B6%E4%B8%8
 kaedea非常棒的文章 https://segmentfault.com/a/1190000004062899
 
 快客(small插件化开源项目) http://code.wequick.net/
+
+开发者头条 https://toutiao.io/
+
+动态加载黑技术(多种方式分享) https://segmentfault.com/a/1190000004077469
