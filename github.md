@@ -6,3 +6,5 @@
 张勇(360 DroidPlugin作者)https://github.com/cmzy
 
 kaedea(动态加载) https://github.com/kaedea
+
+蘑菇街 https://github.com/mogujie
