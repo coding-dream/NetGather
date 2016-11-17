@@ -71,3 +71,5 @@ kaedea非常棒的文章 https://segmentfault.com/a/1190000004062899
 开发者头条 https://toutiao.io/
 
 动态加载黑技术(多种方式分享) https://segmentfault.com/a/1190000004077469
+
+Android高级进阶作者 http://www.jianshu.com/users/4ef984470da8/latest_articles
