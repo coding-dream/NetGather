@@ -1,5 +1,14 @@
 ## 技术区
 linchaolong(推荐) https://coding.net/u/linchaolong
+
+IT蓝豹 http://itlanbao.com/
+
+开源库项目分享 https://android-arsenal.com/
+
+Android开发工具 http://www.androiddevtools.cn/
+
+linchaolong http://blog.csdn.net/linchaolong/article
+
 https://github.com/alibaba/weex
 
 开源项目分享 http://www.trinea.cn/
