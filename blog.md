@@ -1,4 +1,5 @@
 ## 技术区
+linchaolong(推荐) https://coding.net/u/linchaolong
 https://github.com/alibaba/weex
 
 开源项目分享 http://www.trinea.cn/
