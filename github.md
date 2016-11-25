@@ -22,3 +22,5 @@ Android开发知识 https://github.com/ruijun/Android-Dev-Favorites
 简历模板 https://github.com/wangli0/ResumeSample 
 
 TVLauncher https://github.com/sunglasscat/android-tv-launcher 
+
+开源项目 https://github.com/Trinea/android-open-project
