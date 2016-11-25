@@ -18,3 +18,5 @@ Google官方Sample https://github.com/googlesamples
 视频解析 https://github.com/rptec/rpvideo
 
 Android开发知识 https://github.com/ruijun/Android-Dev-Favorites
+
+简历模板 https://github.com/wangli0/ResumeSample 
