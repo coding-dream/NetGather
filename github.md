@@ -14,3 +14,5 @@ kaedea(动态加载) https://github.com/kaedea
 Google https://github.com/google
 
 Google官方Sample https://github.com/googlesamples
+
+视频解析 https://github.com/rptec/rpvideo
