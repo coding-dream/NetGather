@@ -16,3 +16,5 @@ Google https://github.com/google
 Google官方Sample https://github.com/googlesamples
 
 视频解析 https://github.com/rptec/rpvideo
+
+Android开发知识 https://github.com/ruijun/Android-Dev-Favorites
