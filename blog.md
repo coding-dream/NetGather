@@ -99,3 +99,7 @@ NDK系列 http://gnaixx.cc/
 技术小黑屋 http://droidyue.com/
 
 腾讯胡凯 http://hukai.me/
+
+编译apt注解框架 https://github.com/joyrun/AptPreferences
+
+悦跑圈技术团队 https://joyrun.github.io/2016/07/19/AptHelloWorld/
