@@ -26,3 +26,5 @@ TVLauncher https://github.com/sunglasscat/android-tv-launcher
 开源项目 https://github.com/Trinea/android-open-project
 
 codekk https://github.com/aosp-exchange-group
+
+稀土 https://github.com/xitu
