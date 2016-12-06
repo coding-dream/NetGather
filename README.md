@@ -1,2 +1,6 @@
 # NetGather
-WebSite Gather &amp; Better future
+
+>集聚了各路大神的github和blog地址等,仅为个人方便收录查阅
+这个过程收益实在太多太多了，唯一的感想就是自己变得越来越渺小
+一个人的无知就是他感觉自己很强大！！
+
