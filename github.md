@@ -28,3 +28,5 @@ TVLauncher https://github.com/sunglasscat/android-tv-launcher
 codekk https://github.com/aosp-exchange-group
 
 稀土 https://github.com/xitu
+
+HotFix等多项热修复作者(百度) https://github.com/dodola

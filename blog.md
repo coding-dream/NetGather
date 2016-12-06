@@ -103,3 +103,5 @@ NDK系列 http://gnaixx.cc/
 编译apt注解框架 https://github.com/joyrun/AptPreferences
 
 悦跑圈技术团队 https://joyrun.github.io/2016/07/19/AptHelloWorld/
+
+hotfix作者 https://my.oschina.net/dodola
