@@ -105,3 +105,8 @@ NDK系列 http://gnaixx.cc/
 悦跑圈技术团队 https://joyrun.github.io/2016/07/19/AptHelloWorld/
 
 hotfix作者 https://my.oschina.net/dodola
+
+Google针对中国开放 
+https://developers.google.cn/
+
+https://developers.google.cn/china/
