@@ -113,6 +113,7 @@ https://developers.google.cn/
 
 https://developers.google.cn/china/
 
+java设计模式 http://blog.csdn.net/zhangerqing/
 
 -------------------------------
 
