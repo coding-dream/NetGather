@@ -1,4 +1,6 @@
 ## 技术区
+开发技术前线 http://www.devtf.cn/?p=337
+
 linchaolong(推荐) https://coding.net/u/linchaolong
 
 直播 https://github.com/pili-engineering
@@ -117,6 +119,7 @@ java设计模式 http://blog.csdn.net/zhangerqing/
 
 外文学习案例集合 http://www.mkyong.com/logging/log4j-hello-world-example/
 
+何红辉(阿里巴巴高级工程师) http://blog.csdn.net/bboyfeiyu/
 -------------------------------
 
 
@@ -124,7 +127,7 @@ java设计模式 http://blog.csdn.net/zhangerqing/
 
 [邓凡平](http://blog.csdn.net/innost)
 
-[lmj623565791](http://blog.csdn.net/lmj623565791)
+[张鸿洋](http://blog.csdn.net/lmj623565791)
 
 [zhxdick](http://blog.csdn.net/zhxdick)
 
