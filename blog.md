@@ -115,6 +115,8 @@ https://developers.google.cn/china/
 
 java设计模式 http://blog.csdn.net/zhangerqing/
 
+外文学习案例集合 http://www.mkyong.com/logging/log4j-hello-world-example/
+
 -------------------------------
 
 
