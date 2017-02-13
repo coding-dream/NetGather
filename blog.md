@@ -123,6 +123,8 @@ java设计模式 http://blog.csdn.net/zhangerqing/
 外文学习案例集合 http://www.mkyong.com/logging/log4j-hello-world-example/
 
 何红辉(阿里巴巴高级工程师) http://blog.csdn.net/bboyfeiyu/
+
+
 -------------------------------
 
 
