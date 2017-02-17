@@ -8,6 +8,8 @@ linchaolong(推荐) https://coding.net/u/linchaolong
 
 直播 https://github.com/pili-engineering
 
+Jacks Blog https://blog.dreamtobe.cn/
+
 IT蓝豹 http://itlanbao.com/
 
 开源库项目分享 https://android-arsenal.com/
