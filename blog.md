@@ -4,6 +4,10 @@
 
 开发技术前线 http://www.devtf.cn/?p=337
 
+http://ucren.com/blog/ (有趣)
+
+https://imququ.com/(Web方面)
+
 linchaolong(推荐) https://coding.net/u/linchaolong
 
 直播 https://github.com/pili-engineering
