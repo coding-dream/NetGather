@@ -2,6 +2,10 @@
 
 https://foofish.net/categories.html
 
+IBM技术 https://www.ibm.com/developerworks/cn/java/  
+
+黑客与极客 http://www.freebuf.com/
+
 牛客网(面试) https://www.nowcoder.com/
 
 开发技术前线 http://www.devtf.cn/?p=337
