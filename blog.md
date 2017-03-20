@@ -4,6 +4,10 @@ https://foofish.net/categories.html
 
 IBM技术 https://www.ibm.com/developerworks/cn/java/  
 
+奇虎360技术博客 http://blogs.360.cn/
+
+Jerry Qu(深入 Http) https://imququ.com
+
 黑客与极客 http://www.freebuf.com/
 
 牛客网(面试) https://www.nowcoder.com/
