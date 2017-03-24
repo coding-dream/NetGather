@@ -8,6 +8,8 @@ IBM技术 https://www.ibm.com/developerworks/cn/java/
 
 Jerry Qu(深入 Http) https://imququ.com
 
+JavaWeb作者知识面涉及很广 http://www.cnblogs.com/xing901022/
+
 黑客与极客 http://www.freebuf.com/
 
 牛客网(面试) https://www.nowcoder.com/
@@ -653,7 +655,6 @@ http://blog.csdn.net/m13666368773
 [mxm691292118](http://blog.csdn.net/mxm691292118)
 
 [wanghao200906](http://blog.csdn.net/wanghao200906)
-
 
 
 
