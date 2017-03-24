@@ -142,6 +142,9 @@ java设计模式 http://blog.csdn.net/zhangerqing/
 
 http://blog.csdn.net/m13666368773
 
+阮一峰的个人网站 http://www.ruanyifeng.com/home.html
+
+廖雪峰 http://www.liaoxuefeng.com/
 
 
 -------------------------------
