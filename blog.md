@@ -8,7 +8,9 @@ IBM技术 https://www.ibm.com/developerworks/cn/java/
 
 Jerry Qu(深入 Http) https://imququ.com
 
-JavaWeb作者知识面涉及很广 http://www.cnblogs.com/xing901022/
+JavaWeb作者知识面涉及很广(http) http://www.cnblogs.com/xing901022/
+
+专注APP, HTTP, HTTPS http://www.cnblogs.com/TankXiao/ [Http协议详解](http://www.cnblogs.com/TankXiao/archive/2012/02/13/2342672.html)
 
 黑客与极客 http://www.freebuf.com/
 
