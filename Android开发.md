@@ -56,3 +56,10 @@ apkplug http://www.apkplug.com/
 
 kaedea非常棒的文章 https://segmentfault.com/a/1190000004062899
 
+张涛(插件化推荐) http://kymjs.com/
+
+java代理机制与hook http://www.zengye.cc/2016/05/01/java%E4%BB%A3%E7%90%86%E6%9C%BA%E5%88%B6%E4%B8%8Ehook/
+
+很多优秀网站 http://jayfeng.com/categories/android/
+
+
